@@ -1,4 +1,4 @@
-### <div align="center">Olá sou Bruno desenvolvedor pleno de sistemas web há mais de 7 anos, com diversos sistemas nos mais variados ramos de varejo e industria desenvolvidos.</div>  
+### <div align="center">Olá sou Bruno desenvolvedor pleno de sistemas web há mais de 10 anos, com diversos sistemas nos mais variados ramos de varejo e industria desenvolvidos.</div>  
   
 
 <br/>  
