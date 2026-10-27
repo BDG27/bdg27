@@ -1,86 +1,52 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" alt="Bruno Demarchi — desenvolvedor full stack para sistemas de varejo e indústria" width="900" />
+</p>
 
-# Olá, eu sou o Bruno 👋
+## Sobre
 
-### Desenvolvedor Web Pleno · +10 anos construindo sistemas para varejo e indústria
+Sou desenvolvedor web pleno, com mais de 10 anos construindo sistemas para empresas de varejo e indústria. Já passei por todas as camadas de projetos reais: interfaces para o uso diário de operadores, APIs e regras de negócio no backend, modelagem de banco de dados e a infraestrutura que coloca tudo isso no ar.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer;Varejo+%26+Ind%C3%BAstria;Backend+%2B+Frontend+%2B+DevOps" alt="Typing SVG" />
+## Stack técnica
 
-</div>
+**Frontend** — HTML, CSS e JavaScript como base, com Bootstrap, Tailwind, jQuery e Chart.js para interface e visualização de dados.
 
-<br/>
+<img src="https://img.shields.io/badge/HTML5-0F1A2B?style=flat-square&logo=html5&logoColor=E8A33D" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-0F1A2B?style=flat-square&logo=css3&logoColor=E8A33D" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-0F1A2B?style=flat-square&logo=javascript&logoColor=E8A33D" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Bootstrap-0F1A2B?style=flat-square&logo=bootstrap&logoColor=E8A33D" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Tailwind-0F1A2B?style=flat-square&logo=tailwindcss&logoColor=E8A33D" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/jQuery-0F1A2B?style=flat-square&logo=jquery&logoColor=E8A33D" alt="jQuery" />
+<img src="https://img.shields.io/badge/Chart.js-0F1A2B?style=flat-square&logo=chartdotjs&logoColor=E8A33D" alt="Chart.js" />
 
-## 🧑‍💻 Sobre mim
+**Backend** — Node.js e NestJS, Django e Flask em Python, além de C# e PHP, conforme o que cada sistema exige.
 
-Sou desenvolvedor de sistemas web com mais de **10 anos de experiência**, atuando na construção de soluções para os setores de **varejo** e **indústria**. Ao longo da trajetória já passei por todas as camadas de um projeto — frontend, backend, banco de dados e infraestrutura.
+<img src="https://img.shields.io/badge/Node.js-0F1A2B?style=flat-square&logo=nodedotjs&logoColor=E8A33D" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-0F1A2B?style=flat-square&logo=nestjs&logoColor=E8A33D" alt="NestJS" />
+<img src="https://img.shields.io/badge/Express-0F1A2B?style=flat-square&logo=express&logoColor=E8A33D" alt="Express" />
+<img src="https://img.shields.io/badge/Django-0F1A2B?style=flat-square&logo=django&logoColor=E8A33D" alt="Django" />
+<img src="https://img.shields.io/badge/Flask-0F1A2B?style=flat-square&logo=flask&logoColor=E8A33D" alt="Flask" />
+<img src="https://img.shields.io/badge/Python-0F1A2B?style=flat-square&logo=python&logoColor=E8A33D" alt="Python" />
+<img src="https://img.shields.io/badge/C%23-0F1A2B?style=flat-square&logo=csharp&logoColor=E8A33D" alt="C#" />
+<img src="https://img.shields.io/badge/PHP-0F1A2B?style=flat-square&logo=php&logoColor=E8A33D" alt="PHP" />
+<img src="https://img.shields.io/badge/Next.js-0F1A2B?style=flat-square&logo=nextdotjs&logoColor=E8A33D" alt="Next.js" />
 
-- 🔭 Atualmente desenvolvendo sistemas corporativos sob medida
-- 🌱 Sempre estudando novas tecnologias e boas práticas de arquitetura
-- 💬 Pergunte-me sobre C#, Node.js, Python ou modelagem de sistemas
-- 📫 Como falar comigo: veja os links lá embaixo
+**Infraestrutura** — Linux, Nginx, Azure e AWS para deploy, PostgreSQL, MySQL e MariaDB para dados, Figma para prototipagem.
 
-<br/>
+<img src="https://img.shields.io/badge/Linux-0F1A2B?style=flat-square&logo=linux&logoColor=E8A33D" alt="Linux" />
+<img src="https://img.shields.io/badge/Nginx-0F1A2B?style=flat-square&logo=nginx&logoColor=E8A33D" alt="Nginx" />
+<img src="https://img.shields.io/badge/Azure-0F1A2B?style=flat-square&logo=microsoftazure&logoColor=E8A33D" alt="Azure" />
+<img src="https://img.shields.io/badge/AWS-0F1A2B?style=flat-square&logo=amazonaws&logoColor=E8A33D" alt="AWS" />
+<img src="https://img.shields.io/badge/PostgreSQL-0F1A2B?style=flat-square&logo=postgresql&logoColor=E8A33D" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-0F1A2B?style=flat-square&logo=mysql&logoColor=E8A33D" alt="MySQL" />
+<img src="https://img.shields.io/badge/MariaDB-0F1A2B?style=flat-square&logo=mariadb&logoColor=E8A33D" alt="MariaDB" />
+<img src="https://img.shields.io/badge/Figma-0F1A2B?style=flat-square&logo=figma&logoColor=E8A33D" alt="Figma" />
+<img src="https://img.shields.io/badge/PowerShell-0F1A2B?style=flat-square&logo=powershell&logoColor=E8A33D" alt="PowerShell" />
 
-## 🛠️ Stack de Tecnologias
+## Onde atuo
 
-<div align="center">
+Trabalho principalmente com sistemas de retaguarda para varejo e indústria: controle de estoque, pontos de venda, integrações entre sistemas e painéis operacionais — software que precisa simplesmente funcionar, todos os dias, sob uso real.
 
-**Frontend**
+## Contato
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,jquery" />
-
-<br/><br/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,python,csharp,php,nextjs" />
-
-<br/><br/>
-
-**DevOps & Infra**
-
-<img src="https://skillicons.dev/icons?i=linux,azure,aws,nginx,postgres,mysql,mariadb,figma,powershell" />
-
-</div>
-
-<br/>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BDG27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BDG27&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BDG27&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-## 🤝 Conecte-se comigo
-
-<div align="center">
-
-<a href="https://github.com/BDG27" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/bruno-demarchi-germano-714574220/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=bdg27&style=for-the-badge&color=blueviolet)
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>Feito com ☕ e muitas linhas de código.</sub>
-</div>
+<a href="https://github.com/BDG27" target="_blank"><img src="https://img.shields.io/badge/GitHub-0F1A2B?style=flat-square&logo=github&logoColor=E8A33D" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/bruno-demarchi-germano-714574220/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0F1A2B?style=flat-square&logo=linkedin&logoColor=E8A33D" alt="LinkedIn" /></a>
